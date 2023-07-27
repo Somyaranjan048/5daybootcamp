@@ -58,7 +58,7 @@ p{
     border-top: 2px solid lightgrey;
     padding: 34px 40px;
 }
-a{
+.profile-btn{
     text-decoration: none;
     font-size: 1.3em;
     font-weight: 500;
@@ -122,9 +122,23 @@ i{
 }
 .click-btn{
     margin: 10px 10%;
+    
 }
 .form-input .btn{
     background: #000;
     border-radius: 25px;
     color: #fff;
+    text-decoration: none;
+}
+.sub-paragraph{
+    font-size: 1em;
+    font-weight: 200;
+    margin-top: 20px;
+}
+.fotter{
+    align-items: center;
+    width: 200px;
+    font-size: 0.6em;
+    margin-left: 37%;
+    margin-top: 20px;
 }
